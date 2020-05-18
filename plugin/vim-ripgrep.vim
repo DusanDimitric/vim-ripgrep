@@ -33,9 +33,6 @@ fun! s:RgApplyKeyboardShortcuts()
 
     " edit and exit quickfix
     nnoremap <silent> <buffer> <C-e> <CR><C-w><C-w>:cclose<CR>
-    " preview silently
-    nnoremap <silent> <buffer> <C-p> <CR>:copen<CR>
-    nnoremap <silent> <buffer> <C-o> <CR>:copen<CR>
     " close search list
     nnoremap <silent> <buffer> <C-q> :cclose<CR>
 
