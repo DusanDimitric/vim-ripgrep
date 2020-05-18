@@ -20,7 +20,6 @@ Word under cursor will be searched if no argument is passed to `Rg`
 
 | Shortcut           | Action
 | ------------------ | -----------------------------------------------------------
-| `<C-p>` or `<C-o>` | preview/open file but leave focus in quickfix
 | `<C-e>`            | edit and exit quickfix window
 | `<C-q>`            | close quickfix
 | `<C-t>`            | open in new tab
